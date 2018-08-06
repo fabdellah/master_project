@@ -42,7 +42,7 @@ The following dependencies will need to be installed in order to run the project
     Contains the historical spot prices of Oil, Power, Coal and market gas (TTF).
 
 
-# Running the code and Reproducing the results of the report
+# Running the code and Reproducing results 
 
 - Choose Spyder on Anaconda navigator
 
