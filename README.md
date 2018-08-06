@@ -28,7 +28,7 @@ The following dependencies will need to be installed in order to run the project
 
 * [SciPy] - Install SciPy library 
 
-    ``pip install scipy`
+    ``pip install scipy``
     
 
 #-> Data Set
