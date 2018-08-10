@@ -48,8 +48,13 @@ The following dependencies will need to be installed in order to run the project
 
 - Make sure to set the working directory to ".../Master Project"
 
-- Open the file run.py. Keep the parameters as they are and run the code by steps:
+- Keep the parameters as they are and run the code by steps:
 
+      - Step 0: - Open and run the files load_data.py, class_gas_storage.py, class_alternate.py, 
+                  functions_model_calibration.py, functions_gas_storage.py and functions_predictions.py
+                  
+                - Open the file run.py and run it by steps as explained below
+      
       - Step 1: Load the data
       
       - Step 2: Predict the Russian gas price
