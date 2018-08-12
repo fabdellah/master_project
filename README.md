@@ -99,10 +99,10 @@ The following dependencies will need to be installed in order to run the project
 
     Approximated run time on a 8 cores, 3GHZ, 32 GO RAM computer 
     
-          Step                                 Time
-    - Load the data:                        few seconds
-    - Predict Russia's gas price:             5 hours
-    - Model calibration:                    few seconds
-    - Monte Carlo for gas storage:           15 seconds 
+          Step                                         Time
+    - Load the data:                               few seconds
+    - Predict Russia's gas price:           5 hours (for 45 iterations)
+    - Model calibration:                           few seconds
+    - Monte Carlo for gas storage:         < 5 minutes (for 10000 simulations)
 
 @ You can also change the parameters if you want to try other combinations.
