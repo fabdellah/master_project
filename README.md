@@ -1,6 +1,6 @@
 # Mater Project: Index Prediction and Asset Optimization: The Case of Russian Gas Supplies to Europe
 
-In this project, we want first to predict the Russian gas index with finding the unknown parameters used in the Russian pricing formula. Then, we want to use these predictions of the Russian gas price to optimize Europe gas imports from Russia. A Monte Carlo model will be used for the second part of the project. 
+In this project, we want first to predict the Russian gas index with finding the unknown parameters used in the Russian pricing formula. Then, in the second part of the project, we want to use these predictions of the Russian gas price to optimize Europe gas imports from Russia. A Monte Carlo model will be used for this part. 
 
 # Author
 
