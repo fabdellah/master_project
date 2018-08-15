@@ -103,6 +103,6 @@ The following dependencies will need to be installed in order to run the project
     - Load the data:                               few seconds
     - Predict Russia's gas price:           5 hours (for 45 iterations)
     - Model calibration:                           few seconds
-    - Monte Carlo for gas storage:         < 5 minutes (for 10000 simulations)
+    - Monte Carlo for gas storage:         < 4 minutes (for 10000 simulations)
 
 @ You can also change the parameters if you want to try other combinations.
